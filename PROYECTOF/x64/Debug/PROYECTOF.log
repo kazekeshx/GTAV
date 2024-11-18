@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Kaze X\source\repos\PROYECTOF\Pedido.h(119,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(142,7): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(154,7): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(167,7): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(179,7): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(183,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(80,6): warning C4101: 'opcion': variable local sin referencia
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(363,36): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(404,18): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(529,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(533,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Kaze X\source\repos\PROYECTOF\Menu.h(537,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PROYECTOF.vcxproj -> C:\Users\Kaze X\source\repos\PROYECTOF\x64\Debug\PROYECTOF.exe
